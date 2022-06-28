@@ -3,14 +3,14 @@ This sample HAL Explorer is based on Spring and you can browse and explore HAL a
 
 ## HAL Explorer
 
-With HAL Explorer you can browse and explore http://stateless.co/hal_specification.html[HAL] 
-and https://rwcbook.github.io/hal-forms/[HAL-FORMS] based RESTful Hypermedia APIs.
-HAL Explorer was inspired by Mike Kelly's https://github.com/mikekelly/hal-browser[HAL-Browser].
+With HAL Explorer you can browse and explore [HAL](http://stateless.co/hal_specification.html) 
+and [HAL-FORMS](https://rwcbook.github.io/hal-forms/) based RESTful Hypermedia APIs.
+HAL Explorer was inspired by Mike Kelly's [HAL-Browser](https://github.com/mikekelly/hal-browser)
 
 
 If you start the Spring Boot application you can access
 
-*   HAL explorer [http://localhost:8085](http://localhost:8085/).
+*   HAL explorer at [http://localhost:8085](http://localhost:8085/).
 
 ![image](https://user-images.githubusercontent.com/17804600/86898475-0ae70480-c109-11ea-8cf5-384f1aff3711.png)
 
